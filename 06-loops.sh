@@ -7,7 +7,7 @@ while [ $a -gt 0 ]; do
 done
 
 for component in catalogue user cart frontend shipping payment; do
-  echo Creating Component - $componenr
+  echo Creating Component - $component
   sleep 1
 
 done

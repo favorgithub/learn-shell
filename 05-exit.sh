@@ -6,7 +6,7 @@ sample () {
 }
 
 sample
-echo Fuction Exit status -$?
+echo Function Exit status -$?
 
 echo Hello
 exit 100
